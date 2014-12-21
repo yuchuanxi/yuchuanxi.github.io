@@ -1,4 +1,4 @@
-tinyPotato.github.io
+gooofly.github.io
 ====================
 
-person blog for tinyPotato
+person blog for [@gooofly](https://github.com/gooofly)
