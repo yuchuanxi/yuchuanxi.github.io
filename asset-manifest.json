@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7cfc7464.chunk.css",
+    "main.js": "/static/js/main.e043a8ca.chunk.js",
+    "main.js.map": "/static/js/main.e043a8ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.405c54dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.405c54dc.js.map",
+    "static/js/2.96136608.chunk.js": "/static/js/2.96136608.chunk.js",
+    "static/js/2.96136608.chunk.js.map": "/static/js/2.96136608.chunk.js.map",
+    "static/js/3.15e8bb5f.chunk.js": "/static/js/3.15e8bb5f.chunk.js",
+    "static/js/3.15e8bb5f.chunk.js.map": "/static/js/3.15e8bb5f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7cfc7464.chunk.css.map": "/static/css/main.7cfc7464.chunk.css.map",
+    "static/js/2.96136608.chunk.js.LICENSE.txt": "/static/js/2.96136608.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/scenic-marker.89c8b8b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.405c54dc.js",
+    "static/js/2.96136608.chunk.js",
+    "static/css/main.7cfc7464.chunk.css",
+    "static/js/main.e043a8ca.chunk.js"
+  ]
+}
